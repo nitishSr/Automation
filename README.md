@@ -1,11 +1,11 @@
 # Automation
 Repository for basic automation to serve below functionalities
 
-## PDF Parser
-## Selenium Web Scrapper
-## Excel Reader
-## Excel Writer
-## REST API Connector
+# PDF Parser
+# Selenium Web Scrapper
+# Excel Reader
+# Excel Writer
+# REST API Connector
 
 ## Instructions to run
 
